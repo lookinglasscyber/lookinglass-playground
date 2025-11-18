@@ -1,2 +1,0 @@
-# Tasks
-- [ ] Example task

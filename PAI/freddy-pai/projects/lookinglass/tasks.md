@@ -18,3 +18,9 @@ Use this list to track actionable items. Keep it realistic and prioritized.
 
 - [ ] Define branding ideas, tone, and positioning.
 - [ ] Capture long-term ambitions (e.g., AI products, managed services).
+
+## Next Actions
+
+- [ ] Capture at least five concrete service ideas with rough pricing/target client notes in `notes.md`.
+- [ ] Stand up `reference/lookinglass/README.md` outlining what proposal/SOW templates will live there.
+- [ ] Draft a simple client pipeline table (Prospect, Status, Next Step) in `notes.md` to track opportunities.
